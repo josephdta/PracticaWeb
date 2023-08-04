@@ -1,0 +1,36 @@
+h1{
+    background-color: rgba(0, 0, 0,0.8);
+    color: #f4e033;   
+}
+
+h2{
+    background-color: orange;
+    color: white;
+    opacity: 0.4;
+}
+/* h3{
+    text-transform: uppercase;
+}
+
+.negrita{
+    font-weight: bold;
+} */
+
+
+/* h4{
+    background-color: green;
+    color: white;
+}
+p{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+} */
+
+body{
+    background-image: url('https://images3.alphacoders.com/621/621682.jpg');
+    background-size: cover;
+}
